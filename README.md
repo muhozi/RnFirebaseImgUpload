@@ -33,4 +33,4 @@ cd ios && pod install
 
 ## Author
 
-[Emery Muhozi](https://twitter.com/EmeryMuhozi)
+[Emery Muhozi](https://twitter.com/emeryquo)
